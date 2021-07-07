@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7b30104-98b1-4903-b618-626d584d4609" name="Default Changelist" comment="html css기초">
+    <list default="true" id="d7b30104-98b1-4903-b618-626d584d4609" name="Default Changelist" comment="api를 get해서 내용에 넣기">
+      <change afterPath="$PROJECT_DIR$/../pythonprac/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonprac/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonprac/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonprac/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonprac/.idea/pythonprac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonprac/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonprac/dbprac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonprac/dbquiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonprac/hello.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +61,7 @@
       <workItem from="1625372629289" duration="23932000" />
       <workItem from="1625503383612" duration="80000" />
       <workItem from="1625542376610" duration="709000" />
-      <workItem from="1625580374696" duration="1459000" />
+      <workItem from="1625580374696" duration="3878000" />
     </task>
     <task id="LOCAL-00001" summary="html css기초">
       <created>1625382466615</created>
@@ -62,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625382466615</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="api를 get해서 내용에 넣기">
+      <created>1625582035717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625582035717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,7 +88,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -82,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="html css기초" />
-    <option name="LAST_COMMIT_MESSAGE" value="html css기초" />
+    <MESSAGE value="api를 get해서 내용에 넣기" />
+    <option name="LAST_COMMIT_MESSAGE" value="api를 get해서 내용에 넣기" />
   </component>
 </project>
